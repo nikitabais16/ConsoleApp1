@@ -9,6 +9,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //Sample program  
             //int myint = 5;
             //console.writeline("value of myint {0}", myint);
             //console.writeline("hello world!");
@@ -25,6 +26,7 @@ namespace ConsoleApp1
             //    Console.WriteLine("Done");
             //}
 
+            //input from console
             //Console.WriteLine("What's ur name");
             //int name=int.Parse(Console.ReadLine());
             //Console.WriteLine("My Name is {0}", name);
